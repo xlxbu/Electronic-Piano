@@ -1,6 +1,6 @@
-# Electronic-Piano
+# Gumstixbased Touchscreen Piano and MP3 Player
 
-This is a course project for Embeded system.
+This is a course final project for Embedded system collaberated with Rana Alrabeh and Riya Thakkar. 
 
 Hareware Requirement:
 1. gumstix board
